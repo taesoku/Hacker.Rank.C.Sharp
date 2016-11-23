@@ -1,0 +1,15 @@
+B:\專門\Hackerrank\Hackerrank\bin\Debug\Hackerrank.exe.config
+B:\專門\Hackerrank\Hackerrank\bin\Debug\Hackerrank.exe
+B:\專門\Hackerrank\Hackerrank\bin\Debug\Hackerrank.pdb
+B:\專門\Hackerrank\Hackerrank\obj\Debug\Hackerrank.Practice.csprojResolveAssemblyReference.cache
+B:\專門\Hackerrank\Hackerrank\obj\Debug\Hackerrank.exe
+B:\專門\Hackerrank\Hackerrank\obj\Debug\Hackerrank.pdb
+R:\專門\Hackerrank\Hackerrank\bin\Debug\Hackerrank.exe.config
+R:\專門\Hackerrank\Hackerrank\obj\Debug\Hackerrank.exe
+R:\專門\Hackerrank\Hackerrank\obj\Debug\Hackerrank.pdb
+R:\專門\Hackerrank\Hackerrank\bin\Debug\Hackerrank.exe
+R:\專門\Hackerrank\Hackerrank\bin\Debug\Hackerrank.pdb
+R:\專門\Hackerrank\Hackerrank\obj\Debug\Hackerrank.Practice.csprojResolveAssemblyReference.cache
+B:\專門\Hacker.Rank\Hackerrank\bin\Debug\Hackerrank.exe.config
+B:\專門\Hacker.Rank\Hackerrank\obj\Debug\Hackerrank.exe
+B:\專門\Hacker.Rank\Hackerrank\obj\Debug\Hackerrank.pdb
