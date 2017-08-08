@@ -1,6 +1,0 @@
-R:\專門\Hackerrank\Hackerrank\bin\Debug\Hackerrank.exe.config
-R:\專門\Hackerrank\Hackerrank\bin\Debug\Hackerrank.exe
-R:\專門\Hackerrank\Hackerrank\bin\Debug\Hackerrank.pdb
-R:\專門\Hackerrank\Hackerrank\obj\Debug\Hackerrank.csprojResolveAssemblyReference.cache
-R:\專門\Hackerrank\Hackerrank\obj\Debug\Hackerrank.exe
-R:\專門\Hackerrank\Hackerrank\obj\Debug\Hackerrank.pdb

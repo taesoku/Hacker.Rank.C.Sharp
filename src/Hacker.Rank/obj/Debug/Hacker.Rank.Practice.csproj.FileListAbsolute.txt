@@ -1,9 +1,1 @@
-B:\專門\Hacker.Rank\Hacker.Rank\bin\Debug\Hackerrank.exe.config
-B:\專門\Hacker.Rank\Hacker.Rank\obj\Debug\Hackerrank.exe
-B:\專門\Hacker.Rank\Hacker.Rank\obj\Debug\Hackerrank.pdb
-R:\專門\Hacker.Rank\Hacker.Rank\bin\Debug\Hackerrank.exe.config
-R:\專門\Hacker.Rank\Hacker.Rank\obj\Debug\Hackerrank.exe
-R:\專門\Hacker.Rank\Hacker.Rank\obj\Debug\Hackerrank.pdb
-R:\專門\Hacker.Rank\Hacker.Rank\bin\Debug\Hackerrank.exe
-R:\專門\Hacker.Rank\Hacker.Rank\bin\Debug\Hackerrank.pdb
-R:\專門\Hacker.Rank\Hacker.Rank\obj\Debug\Hacker.Rank.Practice.csprojResolveAssemblyReference.cache
+C:\Users\benjamin\Documents\GitHub\Hacker.Rank\src\Hacker.Rank\bin\Debug\Hackerrank.exe.config
