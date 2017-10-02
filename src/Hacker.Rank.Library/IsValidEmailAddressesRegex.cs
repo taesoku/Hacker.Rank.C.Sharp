@@ -7,6 +7,9 @@ namespace Hacker.Rank.Library
 {
     class IsValidEmailAddressesRegex
     {
+
+        static string regularExpression = @"^([a-z]{0,5}[_]{0,1}[0-9]{0,4})@hackerrank.com$";
+
         public static void Answer()
         {
             var inputs = new List<string>
@@ -18,6 +21,7 @@ namespace Hacker.Rank.Library
                 "julia@gmail.com"
             };
             IsValidEmailAddressRegex(5, inputs);
+            
         }
 
         public static void IsValidEmailAddressRegex(int n, List<string> inputs)
@@ -62,5 +66,6 @@ namespace Hacker.Rank.Library
 
             }
         }
+
     }
 }
