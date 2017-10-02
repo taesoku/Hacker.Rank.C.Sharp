@@ -20,7 +20,7 @@ namespace Hacker.Rank.Library
 
         public static void Main()
         {
-            IsValidEmailAddressesRegex.Answer();
+            PrintValidEmailAddressesRegex.Answer();
 
         }
 
