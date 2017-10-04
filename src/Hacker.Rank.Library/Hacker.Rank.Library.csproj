@@ -35,8 +35,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="SaveHostsCountClass.cs" />
+    <Compile Include="SaveGifFileNamesClass.cs" />
     <Compile Include="Hacker.Rank.Library.cs" />
-    <Compile Include="PrintValidEmailAddressesRegex.cs">
+    <Compile Include="PrintValidEmailAddressRegexClass.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>

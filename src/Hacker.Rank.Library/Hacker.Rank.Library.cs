@@ -20,7 +20,8 @@ namespace Hacker.Rank.Library
 
         public static void Main()
         {
-            PrintValidEmailAddressesRegex.Answer();
+            SaveGifFileNamesClass.Answer();
+            //PrintValidEmailAddressRegexClass.Answer();
 
         }
 

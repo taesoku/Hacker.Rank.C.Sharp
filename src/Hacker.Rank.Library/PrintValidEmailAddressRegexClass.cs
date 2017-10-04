@@ -5,7 +5,7 @@ using System.Text.RegularExpressions;
 
 namespace Hacker.Rank.Library
 {
-    class PrintValidEmailAddressesRegex
+    class PrintValidEmailAddressRegexClass
     {
 
         static string regularExpression = @"^([a-z]{0,5}[_]{0,1}[0-9]{0,4})@hackerrank.com$";
@@ -20,11 +20,11 @@ namespace Hacker.Rank.Library
                 "julia0_@hackerrank.com",
                 "julia@gmail.com"
             };
-            PrintValidEmailAddressRegex(5, inputs);
+            PrintValidEmailAddressesRegex(5, inputs);
             
         }
 
-        public static void PrintValidEmailAddressRegex(int n, List<string> inputs)
+        public static void PrintValidEmailAddressesRegex(int n, List<string> inputs)
         {
             for (int i = 0; i < n; i++)
             {
