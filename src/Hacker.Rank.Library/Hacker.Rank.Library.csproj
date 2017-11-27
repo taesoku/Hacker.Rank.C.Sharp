@@ -35,6 +35,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="PrintChocolatesPerDay.cs" />
     <Compile Include="SaveHostsCountClass.cs" />
     <Compile Include="SaveGifFileNamesClass.cs" />
     <Compile Include="Hacker.Rank.Library.cs" />

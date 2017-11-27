@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace Hacker.Rank.Library
 {
     class HackerRankLibrary
@@ -20,9 +15,9 @@ namespace Hacker.Rank.Library
 
         public static void Main()
         {
+            //PrintValidEmailAddressRegexClass.Answer();
             //SaveGifFileNamesClass.Answer();
             SaveHostsCountClass.Answer();
-            //PrintValidEmailAddressRegexClass.Answer();
 
         }
 
