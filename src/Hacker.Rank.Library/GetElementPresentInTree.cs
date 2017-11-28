@@ -1,8 +1,6 @@
-﻿using System;
-
-namespace Hacker.Rank.Library
+﻿namespace Hacker.Rank.Library
 {
-    class GetBinarySearchTreePresent
+    class GetElementPresentInTree
     {
 
         public static void Answer()
@@ -22,12 +20,12 @@ namespace Hacker.Rank.Library
             }
         }
 
-        public static int GetBinarySearchTreePresentRecursive(Node root, int val)
+        public static int GetElementPresentInTreeRecursive(Node root, int val)
         {
             if (root == null) return 0;
             if (root.Data == val) return 1;
-            if (root.Data > val) return GetBinarySearchTreePresentRecursive(root.Left, val);
-            return GetBinarySearchTreePresentRecursive(root.Right, val);
+            if (root.Data > val) return GetElementPresentInTreeRecursive(root.Left, val);
+            return GetElementPresentInTreeRecursive(root.Right, val);
         }
 
     }

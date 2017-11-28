@@ -35,7 +35,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GetBinarySearchTreePresent.cs" />
+    <Compile Include="GetElementPresentInTree.cs" />
     <Compile Include="PrintChocolatesPerDay.cs" />
     <Compile Include="SaveHostsCountClass.cs" />
     <Compile Include="SaveGifFileNamesClass.cs" />
