@@ -36,6 +36,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="GetElementPresentInTree.cs" />
+    <Compile Include="PrintYouCanSort.cs" />
     <Compile Include="PrintChocolatesPerDay.cs" />
     <Compile Include="SaveHostsCountClass.cs" />
     <Compile Include="SaveGifFileNamesClass.cs" />
