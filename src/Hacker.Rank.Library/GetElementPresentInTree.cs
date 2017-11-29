@@ -12,7 +12,6 @@
         {
             public int Data;
             public Node Left, Right;
-
             Node(int data)
             {
                 Data = data;
@@ -22,11 +21,17 @@
 
         public static int GetElementPresentInTreeRecursive(Node root, int val)
         {
-            if (root == null) return 0;
-            if (root.Data == val) return 1;
-            if (root.Data > val) return GetElementPresentInTreeRecursive(root.Left, val);
-            return GetElementPresentInTreeRecursive(root.Right, val);
+            while (true)
+            {
+                if (root == null) return 0;
+                if (root.Data == val) return 1;
+                if (root.Data > val)
+                {
+                    root = root.Left;
+                    continue;
+                }
+                root = root.Right;
+            }
         }
-
     }
 }
