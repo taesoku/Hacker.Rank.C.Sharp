@@ -10,37 +10,37 @@
 
         static int count = 0;
 
-    public static int GetBeautifulArrangementRecursive(int n)
-    {
-        var nums = new int[n];
-        for (var i = 1; i <= n; i++) nums[i - 1] = i;
-        Permute(nums, 0);
-        return count;
-    }
-
-    internal static void Permute(int[] nums, int l, bool final = false)
-    {
-        if (l == nums.Length)
+        public static int GetBeautifulArrangementRecursive(int n)
         {
-            if (nums[l - 1] % l != 0 && l % nums[l - 1] != 0) return;
-            count++;
-            return;
+            var nums = new int[n];
+            for (var i = 1; i <= n; i++) nums[i - 1] = i;
+            Permute(nums, 0);
+            return count;
         }
-        if (l != 0 && nums[l - 1] % l != 0 && l % nums[l - 1] != 0) return;
-        for (var i = l; i < nums.Length; i++)
-        {
-            Swap(nums, i, l);
-            Permute(nums, l + 1);
-            Swap(nums, i, l);
-        }
-    }
 
-    internal static void Swap(int[] nums, int x, int y)
-    {
-        var temp = nums[x];
-        nums[x] = nums[y];
-        nums[y] = temp;
-    }
+        internal static void Permute(int[] nums, int l, bool final = false)
+        {
+            if (l == nums.Length)
+            {
+                if (nums[l - 1] % l != 0 && l % nums[l - 1] != 0) return;
+                count++;
+                return;
+            }
+            if (l != 0 && nums[l - 1] % l != 0 && l % nums[l - 1] != 0) return;
+            for (var i = l; i < nums.Length; i++)
+            {
+                Swap(nums, i, l);
+                Permute(nums, l + 1);
+                Swap(nums, i, l);
+            }
+        }
+
+        internal static void Swap(int[] nums, int x, int y)
+        {
+            var temp = nums[x];
+            nums[x] = nums[y];
+            nums[y] = temp;
+        }
 
     }
 }
