@@ -35,6 +35,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GetBeautifulArrangement.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="GetElementPresentInTree.cs" />
     <Compile Include="PrintYouCanSort.cs" />
     <Compile Include="PrintChocolatesPerDay.cs" />

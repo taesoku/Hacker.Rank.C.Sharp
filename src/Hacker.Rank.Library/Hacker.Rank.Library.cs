@@ -16,6 +16,7 @@ namespace Hacker.Rank.Library
 
         public static void Main()
         {
+            GetBeautifulArrangement.Answer();
             //PrintChocolatesPerDay.Answer();
             //PrintValidEmailAddressRegexClass.Answer();
             //SaveGifFileNamesClass.Answer();
