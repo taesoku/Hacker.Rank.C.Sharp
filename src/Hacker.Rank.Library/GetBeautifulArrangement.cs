@@ -5,13 +5,14 @@
 
         public static void Answer()
         {
-            var output = GetBeautifulArrangementRecursive(3);
+            var output = GetBeautifulArrangementRecursive(1);
         }
 
         static int count = 0;
 
         public static int GetBeautifulArrangementRecursive(int n)
         {
+            count = 0;
             var nums = new int[n];
             for (var i = 1; i <= n; i++) nums[i - 1] = i;
             Permute(nums, 0);
