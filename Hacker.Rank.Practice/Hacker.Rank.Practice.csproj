@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{04369D4D-5F21-4E8A-A64C-882142CA2119}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HackerrankPractice</RootNamespace>
+    <AssemblyName>Hackerrank</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="01.Tutorials.23.Binary.Search.Tree.Level.Order.Traversal.cs" />
+    <Compile Include="01.Tutorials.26.Nested.Logic.cs" />
+    <Compile Include="01.Tutorials.25.Running.Time.And.Complexity.cs" />
+    <Compile Include="01.Tutorials.24.More.Linked.List.cs" />
+    <Compile Include="01.Tutorials.22.Binary.Search.Tree.cs" />
+    <Compile Include="01.Tutorials.21.Generics.cs" />
+    <Compile Include="01.Tutorials.20.Sorting.cs" />
+    <Compile Include="01.Tutorials.19.Interfaces.cs" />
+    <Compile Include="01.Tutorials.18.Queues.And.Stacks.cs" />
+    <Compile Include="01.Tutorials.17.More.Exceptions.cs" />
+    <Compile Include="01.Tutorials.16.Exceptions.cs" />
+    <Compile Include="01.Tutorials.15.Linked.List.cs" />
+    <Compile Include="01.Tutorials.14.Scope.cs" />
+    <Compile Include="01.Tutorials.13.Abstract.Class.cs" />
+    <Compile Include="01.Tutorials.12.Inheritance.cs" />
+    <Compile Include="01.Tutorials.11.2D.Arrays.cs" />
+    <Compile Include="01.Tutorials.10.Binary.Numbers.cs" />
+    <Compile Include="01.Tutorials.09.Recursion.cs" />
+    <Compile Include="01.Tutorials.08.Dictionaries.And.Maps.cs" />
+    <Compile Include="01.Tutorials.07.Arrays.cs" />
+    <Compile Include="01.Tutorials.06.Lets.View.cs" />
+    <Compile Include="01.Tutorials.05.Loops.cs" />
+    <Compile Include="01.Tutorials.04.Class.VS.Instance.cs" />
+    <Compile Include="01.Tutorials.03.Intro.To.Conditional.Statements.cs" />
+    <Compile Include="01.Tutorials.02.Operators.cs" />
+    <Compile Include="01.Tutorials.01.Data.Types.cs" />
+    <Compile Include="01.Tutorials.00.Hello.World.cs" />
+    <Compile Include="Hacker.Rank.Practice.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
