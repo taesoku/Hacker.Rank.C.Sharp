@@ -1,0 +1,6 @@
+D:\專門\Github\Hacker.Rank.C.Sharp\Hacker.Rank.3.Months.Preparation.Kit\bin\Debug\Hacker.Rank.3.Months.Preparation.Kit.exe.config
+D:\專門\Github\Hacker.Rank.C.Sharp\Hacker.Rank.3.Months.Preparation.Kit\bin\Debug\Hacker.Rank.3.Months.Preparation.Kit.exe
+D:\專門\Github\Hacker.Rank.C.Sharp\Hacker.Rank.3.Months.Preparation.Kit\bin\Debug\Hacker.Rank.3.Months.Preparation.Kit.pdb
+D:\專門\Github\Hacker.Rank.C.Sharp\Hacker.Rank.3.Months.Preparation.Kit\obj\Debug\Hacker.Rank.3.Months.Preparation.Kit.csprojResolveAssemblyReference.cache
+D:\專門\Github\Hacker.Rank.C.Sharp\Hacker.Rank.3.Months.Preparation.Kit\obj\Debug\Hacker.Rank.3.Months.Preparation.Kit.exe
+D:\專門\Github\Hacker.Rank.C.Sharp\Hacker.Rank.3.Months.Preparation.Kit\obj\Debug\Hacker.Rank.3.Months.Preparation.Kit.pdb
