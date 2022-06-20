@@ -43,7 +43,8 @@
   <ItemGroup>
     <Compile Include="Hacker.Rank.3.Months.Preparation.Kit.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Week01.Plus.Minus.cs" />
+    <Compile Include="Week01.Print.Mini.Max.Sum.cs" />
+    <Compile Include="Week01.Print.Plus.Minus.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
