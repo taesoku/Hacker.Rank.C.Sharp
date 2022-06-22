@@ -1,0 +1,6 @@
+D:\專門\Github\Hacker.Rank.C.Sharp\Hacker.Rank.Library\bin\Debug\Hacker.Rank.Library.exe.config
+D:\專門\Github\Hacker.Rank.C.Sharp\Hacker.Rank.Library\bin\Debug\Hacker.Rank.Library.exe
+D:\專門\Github\Hacker.Rank.C.Sharp\Hacker.Rank.Library\bin\Debug\Hacker.Rank.Library.pdb
+D:\專門\Github\Hacker.Rank.C.Sharp\Hacker.Rank.Library\obj\Debug\Hacker.Rank.Library.csprojResolveAssemblyReference.cache
+D:\專門\Github\Hacker.Rank.C.Sharp\Hacker.Rank.Library\obj\Debug\Hacker.Rank.Library.exe
+D:\專門\Github\Hacker.Rank.C.Sharp\Hacker.Rank.Library\obj\Debug\Hacker.Rank.Library.pdb
