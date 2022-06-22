@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace Hacker.Rank._3.Months.Preparation.Kit
 {
-    class Week01PrintMiniMaxSum
+    class Week01RunMiniMaxSum
     {
         public static void Answer()
         {
 
         }
 
-        public static void PrintMiniMaxSum(List<int> inputs)
+        public static void RunMiniMaxSum(List<int> inputs)
         {
             var max = inputs[0];
             var min = inputs[0];

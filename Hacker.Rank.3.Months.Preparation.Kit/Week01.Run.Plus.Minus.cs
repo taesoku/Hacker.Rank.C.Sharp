@@ -6,16 +6,16 @@ using System.Threading.Tasks;
 
 namespace Hacker.Rank._3.Months.Preparation.Kit
 {
-    class Week01PrintPlusMinus
+    class Week01RunPlusMinus
     {
 
         public static void Answer()
         {
             var inputs = new List<int> { -4, 3, -9, 0, 4, 1 };
-            PrintPlusMinus(inputs);
+            RunPlusMinus(inputs);
         }
 
-        private static void PrintPlusMinus(List<int> inputs)
+        private static void RunPlusMinus(List<int> inputs)
         {
             var count = inputs.Count();
             var negative = 0d;
