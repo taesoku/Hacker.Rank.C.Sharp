@@ -21,7 +21,7 @@ namespace Hacker.Rank._3.Months.Preparation.Kit
             {
                 for (var j = i + 1; j < n; j++)
                 {
-                    var sum = ar[i] + ar[j];
+                    var sum = inputs[i] + inputs[j];
                     if (sum % k == 0) count++;
                 }
             }
