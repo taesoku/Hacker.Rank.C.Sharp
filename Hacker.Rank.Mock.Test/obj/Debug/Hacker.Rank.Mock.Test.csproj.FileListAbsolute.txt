@@ -1,0 +1,6 @@
+D:\專門\Github\Hacker.Rank.C.Sharp\Hacker.Rank.Mock.Test\bin\Debug\Hacker.Rank.Mock.Test.exe.config
+D:\專門\Github\Hacker.Rank.C.Sharp\Hacker.Rank.Mock.Test\bin\Debug\Hacker.Rank.Mock.Test.exe
+D:\專門\Github\Hacker.Rank.C.Sharp\Hacker.Rank.Mock.Test\bin\Debug\Hacker.Rank.Mock.Test.pdb
+D:\專門\Github\Hacker.Rank.C.Sharp\Hacker.Rank.Mock.Test\obj\Debug\Hacker.Rank.Mock.Test.csprojResolveAssemblyReference.cache
+D:\專門\Github\Hacker.Rank.C.Sharp\Hacker.Rank.Mock.Test\obj\Debug\Hacker.Rank.Mock.Test.exe
+D:\專門\Github\Hacker.Rank.C.Sharp\Hacker.Rank.Mock.Test\obj\Debug\Hacker.Rank.Mock.Test.pdb
