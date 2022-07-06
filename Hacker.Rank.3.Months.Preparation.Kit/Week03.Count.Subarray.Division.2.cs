@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace Hacker.Rank._3.Months.Preparation.Kit
 {
-    class Week03SubarrayDivision2
+    class Week03CountSubarrayDivision2
     {
 
         public static void Answer()
         {
             var inputs4 = new List<int> {4,5,4,2,4,5,2,3,2,1,1,5,4};
-            var output4 = SubarrayDivision2(inputs4, 15, 4);
+            var output4 = CountSubarrayDivision2(inputs4, 15, 4);
         }
 
         /*
@@ -25,7 +25,7 @@ namespace Hacker.Rank._3.Months.Preparation.Kit
          *  3. INTEGER m
          */
 
-        private static int SubarrayDivision2(List<int> inputs, int day, int month)
+        private static int CountSubarrayDivision2(List<int> inputs, int day, int month)
         {
             var i = 0;
             var count = 0;
