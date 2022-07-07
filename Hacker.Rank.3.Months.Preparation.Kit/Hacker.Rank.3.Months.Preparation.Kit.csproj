@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="Hacker.Rank.3.Months.Preparation.Kit.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Week03.Count.Migratory.Birds.cs" />
     <Compile Include="Week03.Print.XOR.String.3.cs" />
     <Compile Include="Week03.Count.Sales.By.Match.cs" />
     <Compile Include="Week03.Count.Subarray.Division.2.cs" />
