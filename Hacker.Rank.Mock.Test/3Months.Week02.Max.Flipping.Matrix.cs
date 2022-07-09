@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace Hacker.Rank.Mock.Test
 {
-    class _3MonthsWeek02FlippingMatrix
+    class _3MonthsWeek02MaxFlippingMatrix
     {
         public static void Answer()
         {
 
         }
 
-        public static int FlippingMatrix(List<List<int>> inputs)
+        public static int MaxFlippingMatrix(List<List<int>> inputs)
         {
             var count = inputs.Count;
             var sum = 0;
