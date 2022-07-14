@@ -10,7 +10,7 @@ namespace Hacker.Rank._3.Months.Preparation.Kit
     {
         static void Main(string[] args)
         {
-            Week03CountSubarrayDivision2.Answer();
+            Week04RunSeparateNumbers.Answer();
         }
     }
 }
