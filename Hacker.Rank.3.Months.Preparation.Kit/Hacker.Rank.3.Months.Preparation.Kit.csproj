@@ -47,6 +47,7 @@
     <Compile Include="Week03.Get.Maximum.Perimeter.Triangle.cs" />
     <Compile Include="Week03.Count.Migratory.Birds.cs" />
     <Compile Include="Week03.Print.Permuting.Two.Arrays.cs" />
+    <Compile Include="Week04.Print.Number.Line.Jumps.cs" />
     <Compile Include="Week04.Run.Separate.Numbers.cs" />
     <Compile Include="Week03.Print.XOR.String.3.cs" />
     <Compile Include="Week03.Count.Sales.By.Match.cs" />
