@@ -15,7 +15,8 @@ namespace Hacker.Rank.Mock.Test
 
         public static int FindMedian(List<int> inputs)
         {
-            return 0;
+            inputs.Sort();
+            return inputs[inputs.Count/2];
         }
     }
 }
