@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="3Months.Week05.Find.Fibonacci.Modified.cs" />
     <Compile Include="3Months.Week04.Count.Anagram.cs" />
     <Compile Include="3Months.Week03.Find.Total.X.cs" />
     <Compile Include="3Months.Week02.Max.Flipping.Matrix.cs" />
