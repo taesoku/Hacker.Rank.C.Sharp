@@ -10,7 +10,8 @@ namespace Hacker.Rank._3.Months.Preparation.Kit
     {
         static void Main(string[] args)
         {
-            Week04PrintCaesarCipher.Answer();
+            //Week04PrintCaesarCipher.Answer();
+            Week05PrintSherlockAndArray.Answer();
         }
     }
 }
